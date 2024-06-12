@@ -1,6 +1,6 @@
 # Frontend Mentor - Bookmark landing page
 
-![Design preview for the Bookmark landing page coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Bookmark landing page coding challenge](images/design/desktop-preview.jpg)
 
 ## Table of contents
 

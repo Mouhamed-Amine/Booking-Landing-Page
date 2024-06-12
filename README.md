@@ -1,6 +1,6 @@
 # Frontend Mentor - Bookmark landing page
 
-![Design preview for the Bookmark landing page coding challenge](images/design/desktop-preview.jpg)
+![Design preview for the Bookmark landing page coding challenge](tunis-show/public/design/desktop-preview.jpg)
 
 ## Table of contents
 
@@ -64,7 +64,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/booking-landing-page-59-x8xDsUM)
 - Live Site URL: [Add live site URL here](https://booking-landing-page-ten.vercel.app)
 
 ## My process

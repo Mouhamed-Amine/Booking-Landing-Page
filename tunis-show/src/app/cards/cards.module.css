@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+.family{
+    font-family:"Rubik", sans-serif;
+    color: hsl(231, 51%, 24%);
+    font-weight: 700;
+}
+.color{
+    background-color: hsl(231, 69%, 60%);
+}
+.color:hover{
+    border: 2px solid hsl(231, 69%, 60%);
+    cursor: pointer;
+    background-color: transparent;
+    color: hsl(231, 51%, 24%);
+}

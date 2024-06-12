@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+.family{
+    font-family:"Rubik", sans-serif;
+}
+.btnleft{
+    background-color: hsl(231, 69%, 60%);
+    font-family:"Rubik", sans-serif;
+}
+.btnright{
+    background-color: hsl(229, 8%, 60%);
+    font-family:"Rubik", sans-serif;
+}
+.blob{
+
+    border-radius: 100% 0% 68% 32% / 63% 98% 2% 37% ;
+    background-color: hsl(231, 69%, 60%);
+}

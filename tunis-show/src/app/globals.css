@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root{
+/*Primary*/
+--Soft_Blue: hsl(231, 69%, 60%);
+--Soft_Red: hsl(0, 94%, 66%);
+/*Neutral*/
+--Grayish_Blue: hsl(229, 8%, 60%);
+--Very_Dark_Blue: hsl(229, 31%, 21%);
+/*Family-font*/
+--Rubik:"Rubik", sans-serif;
+--w-400:400;
+--w-500:500;
+--Font_size: 18px;
+}

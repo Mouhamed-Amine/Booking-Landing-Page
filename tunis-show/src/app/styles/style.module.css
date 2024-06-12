@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+.family{
+    font-family:"Rubik", sans-serif;
+}
+.font{
+font-family:"Rubik", sans-serif;
+font-size: 14px;
+}
+.button{
+background-color:hsl(0, 94%, 66%);
+}
+.button:hover{
+    background-color: white;
+    border: 1px solid rgb(0, 0, 95);
+    color: black;
+}
+.color{
+    background-color: hsl(229, 32%, 37%);
+}
+.maincolor{
+    background-color: hsl(231, 69%, 60%);
+}
+
+.drawerbackground{
+background-color:hsl(229, 31%, 21%);
+opacity: .9;
+}
+.drawerbutton{
+    background-color: transparent;
+    border: 1px solid white;
+}
+.drawerbutton:hover{
+    background-color: hsl(0, 94%, 66%);
+    border: none;
+}
+.img{
+    background-color: white;
+}
